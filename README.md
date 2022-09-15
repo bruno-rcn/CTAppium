@@ -47,7 +47,7 @@ as experiências profissionais obtidas até o momento.*
 
 ## :file_folder: Comentários:
 
-- Adicionar as variáveis de ambiente do java, mavem -> [Guia](https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26);
+- Adicionar as variáveis de ambiente do java, maven -> [Guia](https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26);
 - Adicionar as variáveis do Android Studio -> [Guia](https://cursos.alura.com.br/forum/topico-nao-consigo-configurar-a-variavel-de-ambiente-android_home-147471);
 
 *******
