@@ -35,6 +35,7 @@ as experiências profissionais obtidas até o momento.*
 - Eclipse -> [Download do Eclipse](https://www.eclipse.org/);
 - Android Studio -> [Download Android Studio](https://developer.android.com/studio);
 - Appium desktop -> [Download Appium](https://appium.io/downloads.html);
+- Appium inspector -> [Download inspector](https://github.com/appium/appium-inspector/releases);
 - ChromeDriver -> [Download Chromedriver](https://chromedriver.chromium.org/downloads);
 - Selenium WebDriver;
 - JUnit;
